@@ -1,0 +1,32 @@
+body{
+	background-image: url(SIGMA.jpg);
+	font-family: sans-serif;
+}
+button{
+	background: linear-gradient(orange,orangered);
+	font-size: 20px;
+	padding: 5px;
+	border: none;
+	color: white;
+	font-weight: 200;
+}
+button:hover{
+	background: linear-gradient(blue,blueviolet);
+}
+h1{
+	color: red;
+}
+h3{
+	color: red;
+}
+.plala{
+	text-align: left;
+	color: thistle;
+	font-size: 19px;
+}
+h5{
+	font-family: cursive;
+	font-size: 50px;
+	color: orangered;
+	text-align: center;	
+}
